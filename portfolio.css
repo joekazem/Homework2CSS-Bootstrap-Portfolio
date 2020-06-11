@@ -1,0 +1,126 @@
+body {
+    background-image: url(./backgroundimage.png);
+    
+}
+/*.nav {
+    height: 50px;
+    background-color: white;
+    } */
+    
+    
+    .alert-primary {
+        width: 250px;
+        height: 100px;
+        position: relative;
+        bottom: 100px;
+        left: 50px; 
+          
+    }
+    
+    .navbar-brand {
+        padding: 10px;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        background-color: rgb(109, 214, 170);
+        position: relative;
+        left: 110px;
+        color: white;
+    
+    }
+    .row {
+        height: 900px;
+        width: 700px ;
+        margin-bottom: 700px;
+        margin-left: 70px;
+        margin-right: 60px;
+        background-color: whitesmoke ;
+    }
+    .col {
+        position: relative;
+        top: 45px;
+        left: 30px;
+        font-family: sans-serif;
+    
+    }
+    .nav-link {
+        color: gray;
+        position: relative;
+        bottom: 50px;
+        right: 35px;
+    }
+    #navbarname {
+        color: white;
+    }  
+    
+    /* Header Left side Name style */
+     .span {
+        
+        background-color: rgb(109, 214, 170);
+     }
+     .container {
+        
+        
+        
+     }
+     #portfolio {
+         color: rgb(109, 214, 170);
+     }
+
+         
+     hr {
+        border-width: 4px;
+       width: 650px;
+       position: relative;
+       right: 30px;
+     }
+     /*.img4 {
+        float: right;
+        bottom: 50%;
+        
+        /*position: relative;
+        bottom: 700px;
+        right: 60px;*/
+        
+       
+        
+     .c1 {
+        float: left;
+        width: 33.33;
+     }
+     .c2 {
+        float: right;
+        width: 39%;
+        
+     }
+     h4 {
+        background-color:rgb(109, 214, 170) ;
+        color: white;  
+        position: relative;
+        top: 150px;
+        text-align: center;
+     }
+     .pj4 {
+         background-color:rgb(109, 214, 170) ;
+         color: white;
+         width: 200px;
+         text-align: center;
+         
+         
+         
+         
+     }
+     .pj5 {
+      background-color:rgb(109, 214, 170) ;
+      color: white;
+      text-align: center;
+      width: 200px;
+  }
+  footer {
+    background-color: gray;
+    color: white;
+    height: 80px;
+    text-align: center;
+}
+
+     

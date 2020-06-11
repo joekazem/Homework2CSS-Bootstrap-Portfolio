@@ -1,0 +1,90 @@
+body {
+    background-image: url(./backgroundimage.png);
+}
+/*.nav {
+    height: 50px;
+    background-color: white;
+    } */
+    
+    
+    .alert-primary {
+        width: 250px;
+        height: 100px;
+        position: relative;
+        bottom: 100px;
+        left: 50px; 
+          
+    }
+    
+    .navbar-brand {
+        padding: 10px;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        background-color: rgb(109, 214, 170);
+        position: relative;
+        left: 110px;
+        color: white;
+    }
+    #navbarname {
+        color: white;
+    }  
+    .row {
+        height: 800px;
+        width: 700px ;
+        margin-bottom: 700px;
+        margin-left: 70px;
+        margin-right: 60px;
+        background-color: whitesmoke ;  
+}
+.col {
+    position: relative;
+    top: 45px;
+    left: 30px;
+    font-family: sans-serif;
+
+}
+.nav-link {
+    color: gray;
+    position: relative;
+    bottom: 50px;
+    right: 35px;
+}
+
+/* Header Left side Name style */
+ .span {
+    
+    background-color: rgb(109, 214, 170);
+ }
+ #navbarame {
+    color: white;
+ }
+    
+/* email form styling */
+.emailform {
+   margin: 50px;
+}
+   
+.emailformbox {
+    height: 610px;
+    width: 1000px;
+    
+    margin-left: 70px;
+    position: relative;
+    
+    background-color: white;
+    padding: 30px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+.submit {
+    background-color: rgb(109, 214, 170);
+    color: white;  
+}
+footer {
+    background-color: gray;
+    color: white;
+    height: 80px;
+    text-align: center;
+}
