@@ -29,7 +29,7 @@ body {
     
     }
     .row {
-        height: 900px;
+        height: 980px;
         width: 700px ;
         margin-bottom: 700px;
         margin-left: 70px;
@@ -58,11 +58,7 @@ body {
         
         background-color: rgb(109, 214, 170);
      }
-     .container {
-        
-        
-        
-     }
+     
      #portfolio {
          color: rgb(109, 214, 170);
      }
@@ -103,7 +99,7 @@ body {
      .pj4 {
          background-color:rgb(109, 214, 170) ;
          color: white;
-         width: 200px;
+         width: 230px;
          text-align: center;
          
          
@@ -114,7 +110,25 @@ body {
       background-color:rgb(109, 214, 170) ;
       color: white;
       text-align: center;
-      width: 200px;
+      width: 230px;
+  }
+  .pj6 {
+      background-color:rgb(109, 214, 170) ;
+      color: white;
+      text-align: center;
+      width: 230px;
+  }
+  .pj7 {
+      background-color:rgb(109, 214, 170) ;
+      color: white;
+      text-align: center;
+      width: 230px;
+  }
+  .pj8 {
+      background-color:rgb(109, 214, 170) ;
+      color: white;
+      text-align: center;
+      width: 230px;
   }
   footer {
     background-color: gray;
